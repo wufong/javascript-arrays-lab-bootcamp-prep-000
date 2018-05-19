@@ -36,3 +36,7 @@ function prependKitten(name) {
   newArray.unshift(name)
   return newArray
 }
+
+function removeLastKitten() {
+  var 
+}
